@@ -63,6 +63,10 @@
   border-radius: 5px;
 }
 
+.main_controls_button i {
+  font-size: 24px;
+}
+
 .leave_meeting {
   color: #eb534b;
 }
@@ -102,6 +106,10 @@
   color: #f5f5f5;
 }
 
-.unmute .stop {
+.unmute {
+  color: #cc3833;
+}
+
+.stop {
   color: #cc3833;
 }
