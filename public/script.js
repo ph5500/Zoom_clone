@@ -8,6 +8,7 @@ var peer = new Peer(undefined, {
   host: "/",
   port: "3030",
 });
+//port should be 443
 
 let myVideoStream;
 navigator.mediaDevices
